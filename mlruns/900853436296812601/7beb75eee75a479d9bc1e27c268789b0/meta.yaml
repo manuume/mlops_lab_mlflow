@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900853436296812601/7beb75eee75a479d9bc1e27c268789b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '900853436296812601'
+lifecycle_stage: active
+run_id: 7beb75eee75a479d9bc1e27c268789b0
+run_name: delicate-loon-119
+run_uuid: 7beb75eee75a479d9bc1e27c268789b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743761874682
+status: 1
+tags: []
+user_id: user
